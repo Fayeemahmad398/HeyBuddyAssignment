@@ -71,9 +71,11 @@
   justify-content: center;
   font-family: "Roboto", Arial;
   font-weight: 400;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
-
+.footer-item{
+    white-space: nowrap;
+}
 
 @media (max-width:800px) {
     .middle-portion{

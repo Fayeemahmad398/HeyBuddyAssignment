@@ -61,6 +61,7 @@ const SignupPage = () => {
 
 
       </div>
+      <hr />
       <div className="footer-container">
         <div className="footer-item">
           Help Center
